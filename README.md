@@ -1,5 +1,9 @@
 # Testing Django and jQuery AJAX
 
+## Live app
+[Click here](http://django-ajax-example.herokuapp.com)
+
+## Running locally
 To run the app, type
 ```shell
 python manage.py runserver
